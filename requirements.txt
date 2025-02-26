@@ -1,0 +1,14 @@
+aiogram==2.22.1
+aiohttp==3.8.4
+aiocron==1.8
+pillow==9.4.0
+pillow-heif==0.10.0
+sqlalchemy==1.4.47
+sqlalchemy[asyncio]
+aiosqlite==0.18.0
+python-dotenv==1.0.0
+numpy==1.24.3
+pandas==2.0.1
+matplotlib==3.7.1
+xlsxwriter==3.1.0
+telethon==1.25.4
